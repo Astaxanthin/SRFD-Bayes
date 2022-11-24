@@ -6,13 +6,13 @@ Official MATLAB code for the paper "Tumor fractions deciphered from circulating 
 
 MATLAB R2018b
 
-## Experimental settings
+## Experimental settings 
 
-The experiments consist of two parts: deconvolution and diagnosis, each is performed on both simulation dataset and real dataset.
+The experiments consist of two parts: deconvolution and diagnosis, each is performed on both simulation dataset and real dataset. 
 
-In the deconvolution step, the semi-reference-deconvolution (SRFD) is first implemented on cfDNA methylation data to obtain a reference database, which is then utilized to deconvolve the test samples to decipher their fraction vectors. To estimate the tumor fractions of real samples, the reference database learned from simulation dataset is directly utilized for the deconvolution of real cfDNA methylation data from cancer patients.
+In the deconvolution step, the semi-reference-deconvolution (SRFD) is first implemented on cfDNA methylation data to obtain a reference database, which is then utilized to deconvolve the test samples to decipher their fraction vectors. To estimate the tumor fractions of real samples, the reference database learned from simulation dataset is directly utilized for the deconvolution of real cfDNA methylation data from cancer patients. 
 
-In the diagnosis step, the diagnostic prior is first obtained from the machine learning based classifiers, and then the conditional probability distribution is computed from the tumor components in the fraction vectors of each test sample. The prior and the conditional probability distribution are combined to make the final Bayesian diagnostic decision.
+In the diagnosis step, the diagnostic prior is first obtained from the machine learning based classifiers, and then the conditional probability distribution is computed from the tumor components in the fraction vectors of each test sample. The prior and the conditional probability distribution are combined to make the final Bayesian diagnostic decision. 
 
 
 
