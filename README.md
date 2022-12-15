@@ -39,5 +39,16 @@ The 'data' directory contains two type of datasets: simulation dataset and real 
 
 
 ## References
-If you find this work or code useful, please cite this study. The citation will be updated soon. If you have any questions about this code, please contact zhouxiao17@mails.tsinghua.edu.cn
+If you find this work or code useful, please cite this study. If you have any questions about this code, please contact zhouxiao17@mails.tsinghua.edu.cn
+
+@article{zhou2022tumor,
+  title={Tumor fractions deciphered from circulating cell-free DNA methylation for cancer early diagnosis},
+  author={Zhou, Xiao and Cheng, Zhen and Dong, Mingyu and Liu, Qi and Yang, Weiyang and Liu, Min and Tian, Junzhang and Cheng, Weibin},
+  journal={Nature Communications},
+  volume={13},
+  number={1},
+  pages={1--13},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
 
