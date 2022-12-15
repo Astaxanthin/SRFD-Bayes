@@ -41,14 +41,5 @@ The 'data' directory contains two type of datasets: simulation dataset and real 
 ## References
 If you find this work or code useful, please cite this study. If you have any questions about this code, please contact zhouxiao17@mails.tsinghua.edu.cn
 
-@article{zhou2022tumor,
-  title={Tumor fractions deciphered from circulating cell-free DNA methylation for cancer early diagnosis},
-  author={Zhou, Xiao and Cheng, Zhen and Dong, Mingyu and Liu, Qi and Yang, Weiyang and Liu, Min and Tian, Junzhang and Cheng, Weibin},
-  journal={Nature Communications},
-  volume={13},
-  number={1},
-  pages={1--13},
-  year={2022},
-  publisher={Nature Publishing Group}
-}
+Zhou X, Cheng Z, Dong M, et al. Tumor fractions deciphered from circulating cell-free DNA methylation for cancer early diagnosis[J]. Nature Communications, 2022, 13(1): 1-13.
 
